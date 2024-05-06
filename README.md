@@ -37,8 +37,8 @@
 ![Screenshot 2024-05-06 173606](https://github.com/Kishorerz/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144451216/14ca3d23-0cf6-4706-8638-b4e418c35d7e)
 
 
-### Name:
-### Register Number:
+### Name:KIHSOR KUMAR B.
+### Register Number:212223240072
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
